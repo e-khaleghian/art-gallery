@@ -8,6 +8,7 @@ const nextConfig = {
       transform: "@mui/icons-material/{{member}}",
     },
   },
+  output: "standalone", // This will build the project as a standalone app inside the Docker image.
 };
 
 module.exports = nextConfig;
