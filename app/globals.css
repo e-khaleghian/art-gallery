@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "AppleGaramond";
+  src: url("/fonts/AppleGaramond-Bold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "AppleGaramond";
+  src: url("/fonts/AppleGaramond-BoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "AppleGaramond";
+  src: url("/fonts/AppleGaramond.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "AppleGaramond";
+  src: url("/fonts/AppleGaramond-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("/fonts/Helvetica-Now-Text.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("/fonts/HelveticaNowText-Black.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Helvetica";
+  src: url("/fonts/HelveticaNowText-Bold.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+.centralize {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
