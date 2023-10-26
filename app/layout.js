@@ -3,8 +3,8 @@ import { Footer, Navbar, ThemeRegistry } from "@/components";
 import { Box } from "@mui/material";
 
 export const metadata = {
-  title: "Fast bundle",
-  description: "Bundle for fast Growth",
+  title: "Yasaho Art Gallery",
+  description: "Art for the world",
 };
 
 export default function RootLayout({ children }) {
