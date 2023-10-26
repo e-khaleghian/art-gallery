@@ -16,8 +16,9 @@ export function Body() {
           typography: { xs: "displayX", md: "displayXL" },
         }}
       >
-        Yasaho Art Gallery She was in north and is tired now
+        Yasaho Art Gallery
       </Typography>
+      <h3>Wake up Honey</h3>
     </Container>
   );
 }
