@@ -17,8 +17,9 @@ export function Body() {
         }}
       >
         Yasaho Art Gallery
+        <b />
+        Wake up honey
       </Typography>
-      <h3>Wake up Honey</h3>
     </Container>
   );
 }
