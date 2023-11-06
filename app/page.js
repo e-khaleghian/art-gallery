@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <Box position={"relative"} minHeight={"100vh"}>
       <Image
-        src="/images/princess.png"
+        src="/images/home.webp"
         fill
         style={{ objectFit: "cover" }}
         alt="Princess"

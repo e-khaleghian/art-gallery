@@ -22,6 +22,7 @@ export function DesktopMenu() {
         width: "100%",
         maxWidth: "1120px",
         px: 4,
+        borderBottom: "1px solid black",
       }}
     >
       <Box
@@ -45,7 +46,7 @@ export function DesktopMenu() {
                 router.push(item.link);
               }}
             >
-              <Typography variant="headingM" color="#FFF">
+              <Typography variant="headingM" color="#157376">
                 {item.name}
               </Typography>
             </Button>

@@ -47,7 +47,6 @@ export function Navbar(props) {
     <HideOnScroll {...props}>
       <AppBar
         component="nav"
-        color={"primary"}
         sx={{
           bgcolor: "transparent",
           boxShadow: "none",
