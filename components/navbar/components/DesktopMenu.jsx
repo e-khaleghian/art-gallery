@@ -22,7 +22,7 @@ export function DesktopMenu() {
         width: "100%",
         maxWidth: "1120px",
         px: 4,
-        borderBottom: "1px solid black",
+        borderBottom: { xs: "none", md: "1px solid black" },
       }}
     >
       <Box

@@ -7,7 +7,7 @@ export function Body() {
       <Typography
         sx={{
           position: "absolute",
-          top: "30%",
+          top: { xs: "10%", md: "30%" },
           left: "5%",
           // transform: "translate(-50%,0)",
           width: "100%",
